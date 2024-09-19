@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravichandu901
 - 👀 I’m interested in Travelling
-- 🌱 I’m currently learning Data Analytics
+- 🌱 Data and Renewable Energy Enthusiast
 - 📫 How to reach me ravichandu901@gmail.com
 
 <!---
